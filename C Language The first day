@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main()
 {
+ printf("new day"\n);
  return 0;
 }
